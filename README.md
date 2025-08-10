@@ -16,7 +16,7 @@ The app detects a hand in the webcam feed, processes it using MediaPipe, and cla
 ## 👥 Authors
 
 - Lim Pek Liang Arnol: [@arnollim](https://github.com/arnollim)
-- Wong Chun Keet Brian: [@teammate1](https://github.com/teammate1)
+- Wong Chun Keet Brian: [@Brian-Wong](https://github.com/Brian-Wong)
 - Wang Zhifei Celia [@teammate2](https://github.com/teammate2)
 - Tan Yan Ru [@teammate3](https://github.com/teammate3)
 - Wong Sook Xian Sophia [@teammate4](https://github.com/teammate4)
