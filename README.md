@@ -25,8 +25,8 @@ The app detects a hand in the webcam feed, processes it using MediaPipe, and cla
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/arnollim/ASL_Recognition.git
+cd ASL_Recognition
 bash
 ```
 
