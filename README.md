@@ -13,6 +13,14 @@ The app detects a hand in the webcam feed, processes it using MediaPipe, and cla
 -  **Annotated video feed** with predicted labels
 ---
 
+## 👥 Authors
+
+- Lim Pek Liang Arnol: [@arnollim](https://github.com/arnollim)
+- Wong Chun Keet Brian: [@teammate1](https://github.com/teammate1)
+- Wang Zhifei Celia [@teammate2](https://github.com/teammate2)
+- Tan Yan Ru [@teammate3](https://github.com/teammate3)
+- Wong Sook Xian Sophia [@teammate4](https://github.com/teammate4)
+
 ## 🚀 Installation
 
 ### 1. Clone the repository
@@ -38,9 +46,10 @@ pip insteall -r requirements.txt
 
 ## Usage
 
-Run the application
+Start the application by running app.py in the /ASL folder
 ```bash
-python -m app.py
+cd ASL
+python app.py
 ```
 ## Training
 The model was trained based on a Kaggle dataset (Muvezwa, 2019):
