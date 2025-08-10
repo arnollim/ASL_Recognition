@@ -41,7 +41,14 @@ source venv/bin/activate
 ```
 ### 3. Install dependencies
 ```bash
-pip insteall -r requirements.txt
+pip install -r requirements.txt
+```
+
+### 4. Place the model file (.h5) and model weighs file (.json) into the /model directory
+```sql
+models/
+├── final_model.json
+└── final_model.h5
 ```
 
 ## Usage
